@@ -1,4 +1,16 @@
-h1 {
+* {
+    margin: 0px;
+}
+
+#pao {
+    width: 200px;
+}
+
+.plao {
+    margin: 40px;
+}
+
+h1, h2 {
     color: blue;
     font-size: 60px;
     background: gray;
