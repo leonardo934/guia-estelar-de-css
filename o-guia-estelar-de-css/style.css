@@ -8,10 +8,17 @@
 
 .plao {
     margin: 40px;
+    color: blue;
+    font-size: 20px;
+    background: gray;
 }
 
-h1, h2 {
-    color: blue;
-    font-size: 60px;
-    background: gray;
+
+
+
+
+h1{
+    border: 1px solid green;
+    margin:200px ;
+    padding:60PX ;
 }
