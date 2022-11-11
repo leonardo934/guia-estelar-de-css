@@ -18,3 +18,9 @@ background-position: center ;
     width: 400px;
     background-image: url(http://source.unsplash.com/random);
 }
+
+.calc::after{
+    content: "Aqui vem um mensagem";
+    color: white;
+}
+
