@@ -3,3 +3,12 @@ div{
     width: 200px;
     height: 200px;
 }
+
+
+.box{
+    height: 300px;
+    width: 400px;
+    background-image: url(http://source.unsplash.com/random);
+background-repeat:no-repeat ;
+background-position: center ;
+}
