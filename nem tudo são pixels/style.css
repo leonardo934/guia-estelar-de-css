@@ -1,7 +1,5 @@
-div{
-    background-color:gold;
-    width: 200px;
-    height: 200px;
+body{
+    height: 100vh;
 }
 
 
@@ -11,4 +9,12 @@ div{
     background-image: url(http://source.unsplash.com/random);
 background-repeat:no-repeat ;
 background-position: center ;
+}
+
+
+
+.calc{
+    height:calc(40% + 20px);
+    width: 400px;
+    background-image: url(http://source.unsplash.com/random);
 }
