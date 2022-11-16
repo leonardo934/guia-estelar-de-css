@@ -22,3 +22,24 @@
     display: block;
     border: 1px solid greenyellow;
 }
+
+
+.tresd, .umse{
+    height: 100px;
+    width: 100px;
+    border: 1px solid rgb(255, 47, 47);
+
+    margin: 8px 0;
+
+    display: inline;
+
+    margin: 0 2px;
+}
+
+.tresd{
+    margin-bottom:8px ;
+}
+
+.umse{
+    margin-top: 8px;
+}
