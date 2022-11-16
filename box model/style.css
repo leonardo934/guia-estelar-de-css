@@ -1,4 +1,4 @@
-.um{
+.umd{
     width: 100px;
     height: 100px;
     border: 1px solid green;
@@ -6,4 +6,19 @@
     padding: 0 20px;
 
     box-sizing: border-box;
+}
+
+
+.doisd{
+    height: 100px;
+    width: 100px;
+    display: inline;
+    border: 1px solid green;
+}
+
+.ums{
+    height: 100px;
+    width: 100px;
+    display: block;
+    border: 1px solid greenyellow;
 }
