@@ -1,3 +1,5 @@
+*{margin:0;}
+
 .umd{
     width: 100px;
     height: 100px;
@@ -43,3 +45,13 @@
 .umse{
     margin-top: 8px;
 }
+
+
+.margin, .sectmargin{
+border: 1px solid red;   
+
+
+padding:10px 2em 8px 50%;
+}
+
+
