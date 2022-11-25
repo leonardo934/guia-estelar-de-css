@@ -1,6 +1,8 @@
-*{margin:0;}
+* {
+    margin: 0;
+}
 
-.umd{
+.umd {
     width: 100px;
     height: 100px;
     border: 1px solid green;
@@ -11,14 +13,14 @@
 }
 
 
-.doisd{
+.doisd {
     height: 100px;
     width: 100px;
     display: inline;
     border: 1px solid green;
 }
 
-.ums{
+.ums {
     height: 100px;
     width: 100px;
     display: block;
@@ -26,7 +28,8 @@
 }
 
 
-.tresd, .umse{
+.tresd,
+.umse {
     height: 100px;
     width: 100px;
     border: 1px solid rgb(255, 47, 47);
@@ -38,20 +41,33 @@
     margin: 0 2px;
 }
 
-.tresd{
-    margin-bottom:8px ;
+.tresd {
+    margin-bottom: 8px;
 }
 
-.umse{
+.umse {
     margin-top: 8px;
 }
 
 
-.margin, .sectmargin{
-border: 1px solid red;   
+.margin,
+.sectmargin {
+    border: 1px solid red;
 
 
-padding:10px 2em 8px 50%;
+    padding: 10px 2em 8px 50%;
 }
 
 
+.borderdiv {
+    width: 100px;
+    height: 100px;
+    margin: 20% auto;
+
+    border-top: 10px solid green;
+    border-bottom: 10px ridge red;
+    border-right: 10px double blue;
+    border-left: 10px dashed yellow;
+    outline: 10px dotted purple;
+
+}
