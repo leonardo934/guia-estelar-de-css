@@ -7,9 +7,17 @@ color: rgb(255,50,60,60%);
 }
 
 .hsld{
-color:hsl(180, 100%, 50%, 60%,) ;
+color:hsl(180, 100%, 50%, 60%) ;
 }
 
 .hslh{
 color: rgb(255, 10, 10);
+}
+
+.gvd{
+color:rgba(0, 253, 0, 40%);
+}
+
+.gvh{
+color: initial ;
 }
