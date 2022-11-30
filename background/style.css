@@ -3,10 +3,13 @@
 header{
     height: 100px;
     border: 7px dashed red;
+    padding: 27px;
 
     background-color: green;
     background-image: url(./htmlum.png);
-    background-repeat: repeat;
+    background-repeat: no-repeat;
 background-position:center;
-background-size:18% ;
+background-size:contain ;
+background-origin:content-box;
+background-clip: content-box;
 }
