@@ -6,6 +6,7 @@ header{
 
     background-color: green;
     background-image: url(./htmlum.png);
-    background-repeat: repeat-x;
-
+    background-repeat: repeat;
+background-position:center;
+background-size:18% ;
 }
