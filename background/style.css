@@ -1,9 +1,16 @@
 *{margin:0;}
 
-header{
+/* header{
     height: 100px;
     border: 7px dashed red;
     padding: 27px;
+
+} */
+
+
+
+main{
+    color: white;
 
     background-color: green;
     background-image: url(./htmlum.png);
@@ -12,4 +19,5 @@ background-position:center;
 background-size:contain ;
 background-origin:content-box;
 background-clip: content-box;
+background-attachment: fixed;
 }
