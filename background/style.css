@@ -1,20 +1,22 @@
-*{margin:0;}
-
-main{
-    color: white;
-
-    background-color: green;
-    background-image: url(./htmlum.png);
-    background-repeat: no-repeat;
-background-position:center;
-background-size:contain ;
-background-origin:content-box;
-background-clip: content-box;
-background-attachment: fixed;
-
-padding: 90px;
-background: rgb(55, 100, 50) url(./htmlum.png) no-repeat center / contain content-box content-box fixed ;
-
-
-background:repeating-linear-gradient( yellow,green );
+* {
+    margin: 0;
 }
+
+main {
+    color: black;
+    padding: 9px;
+    background-color: rgb(55, 100, 50);
+    background-image: url(https://rocketseat.com.br/icons/icon-144x144.png?v=cfca599cb367ccaf7377d56ddc7542f5);
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-size: contain;
+    background-origin:content-box;
+    background-clip: content-box;
+    background-attachment: fixed;
+    
+
+
+    background:linear-gradient(rgba(43, 216, 67, 40%), rgb(219, 221, 49, 80%)), url(https://rocketseat.com.br/icons/icon-144x144.png?v=cfca599cb367ccaf7377d56ddc7542f5) no-repeat right top / 100px border-box border-box fixed;
+
+}
+
