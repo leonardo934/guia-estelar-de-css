@@ -1,6 +1,8 @@
 p {
     font-family: sans-serif;
-    font-weight: bold;
-    font-style: italic;
+    font-weight: normal;
+    font-style: oblique;
     font-size: 18px;
+   font-family: 'lato', sans-serif;
+   font-variant: small-caps;
 }
