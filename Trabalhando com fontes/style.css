@@ -3,5 +3,6 @@ p {
     font-weight: normal;
     font-family: 'lato', sans-serif;
 
-    text-align: center;
+    text-shadow: 1px 1px 1px yellow,
+    2px 2px 1px green;
 }
