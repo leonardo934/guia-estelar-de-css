@@ -3,5 +3,5 @@ p {
     font-weight: normal;
     font-family: 'lato', sans-serif;
 
-    text-transform: uppercase;
+   text-decoration:dotted underline  overline  green;
 }
