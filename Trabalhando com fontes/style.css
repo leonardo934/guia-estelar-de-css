@@ -3,6 +3,5 @@ p {
     font-weight: normal;
     font-family: 'lato', sans-serif;
 
-    text-shadow: 1px 1px 1px yellow,
-    2px 2px 1px green;
+    font: italic normal bold normal 3em/1.5 Helvetica, Arial, sans-serif;
 }
