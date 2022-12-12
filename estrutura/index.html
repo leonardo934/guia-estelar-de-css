@@ -52,11 +52,11 @@
 
 <input type="color" list="fruitsdata"/>
 
-
-<input type="date">
-<input type="number">
-<input type="email">
-<input type="file">
+<h4>data</h4>
+<input type="date"><h4>numero</h4>
+<input type="number"><h4>email</h4>
+<input type="email"><h4>file</h4>
+<input type="file"><h4>password</h4>
 <input type="password">
 
 
@@ -64,9 +64,17 @@
 <label for="email">Email</label>
 <input id="email" type="email"
 placeholder="Digite seu email">
+<br><br><br>
 
 
-
+<datalist id="urlsdata">
+<option>http://meusite.com.br</option>
+<option>https://meusite.com.br</option>  
+</datalist>
+<form action="">
+    <input type="url" placeholder="http://example.com" pattern=".*\.com\.br.*" required list="urlsdata" spellcheck>
+    <button type="submit">Enviar</button>
+</form>
 
 
 
